@@ -185,6 +185,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WKIRMTBX
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Переходник IDC50 на датчик\Design Rule Check - IDC50ToSensor.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

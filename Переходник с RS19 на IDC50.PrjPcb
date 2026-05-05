@@ -64,7 +64,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VDXNSGWA
 
 [Document2]
 DocumentPath=..\..\eic_lib\eic_lib.SchLib
@@ -116,6 +116,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYQKVBLJ
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Переходник с RS19 на IDC50\Design Rule Check - RS19ToIDC.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
